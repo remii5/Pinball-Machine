@@ -1,2 +1,2 @@
 # Pinball-Machine
-project to build a scaled version of the classic arcade game - ALMOST COMPLETE, WILL UPDATE REPOSITORY SOON
+project to build a scaled version of the classic arcade game
